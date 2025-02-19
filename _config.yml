@@ -3,3 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Vortex and Fluid INterface
 description: ANR-funded project VFIN 2025-2028 on vortex dynamics in presence of a fluid-fluid interface
+header_pages:
+  - about.md
+  - publications.md
